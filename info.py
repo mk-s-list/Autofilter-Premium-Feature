@@ -60,7 +60,7 @@ auth_channels     = environ.get("AUTH_CHANNELS", "-100")# Channels for force sub
 # Payment Configuration
 # ============================
 QR_CODE = environ.get('QR_CODE', 'Your_Qr_Code')    # QR code image for payments
-OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'ɴᴏ ᴀᴠᴀɪʟᴀʙʟᴇ ʀɪɢʜᴛ ɴᴏᴡ')    # Owner UPI ID for payments
+OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'ɴᴏ ᴀᴠᴀɪʟᴀʙʟᴇ ʀɪɢʜᴛ ɴᴏᴡ [so gpay this number and send the screen shot to me ✨]')    # Owner UPI ID for payments
 
 STAR_PREMIUM_PLANS = {
     10: "7day",
