@@ -231,7 +231,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/iP_Update">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/OTCOFFIX_TAMIL">[ iP Update ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/tam_otc">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/OTCOFFIX_TAMIL">[ ᴏʟᴅ_ᴛᴀᴍɪʟ_ᴄᴀʀᴛᴏᴏɴs ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
