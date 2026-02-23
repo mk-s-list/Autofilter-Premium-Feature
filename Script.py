@@ -35,12 +35,12 @@ class script(object):
 </b>"""
 
     ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
-├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴏᴡɴᴇʀ</a> 
-├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
-├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
-├⍟ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-├⍟ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>ʜᴇʀᴏᴋᴜ</a> 
+├⍟ ʜᴇ ɪs: <a href=https://t.me/{}>{}</a>
+├⍟ ᴛᴇʟᴀɢʀᴀᴍ ɪᴅ: <a href={}>SRI_OFFICIAL_INSTA</a> 
+├⍟ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/chutti_tv0'>ᴄʜᴜᴛᴛɪ_ᴛᴠ</a>
+├⍟ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/tam_otc'>ᴏᴛᴄ_ᴏғғɪx</a> 
+├⍟ ᴏᴜʀ ᴡᴇʙsɪᴛᴇ: <a href='https://mkbots.blogspot.com'>ʟɪɴᴋ sʜᴏʀᴛɴᴇʀ ᴡᴇʙ</a> 
+├⍟ ᴄᴏɴᴛᴀᴄᴛ ᴜs: <a href='https://t.me/mk_bots1'>ᴛᴀᴘ ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ</a> 
 ├⍟ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ1.6 [ ꜱᴛᴀʙʟᴇ ]
 ╰───────────────⍟</b>"""
     RESTART_TXT = """
