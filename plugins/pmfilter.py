@@ -1404,7 +1404,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 quote=True,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🚀 Fast Download 🚀", url=dreamx_download),  # we download Link
-                                                    InlineKeyboardButton('🖥️ Watch online 🖥️', url=f'https://heavy-aigneis-atulraj-f8668bd9.koyeb.app/watch/file_id{file_id})]])  # web stream Link
+                                                    InlineKeyboardButton('🖥️ Watch online 🖥️', url=f'https://heavy-aigneis-atulraj-f8668bd9.koyeb.app/watch/file_id')]])  # web stream Link
             dreamcinezone = await query.edit_message_reply_markup(
                 reply_markup=InlineKeyboardMarkup([
                     [
